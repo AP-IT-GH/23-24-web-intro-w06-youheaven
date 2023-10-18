@@ -3,16 +3,19 @@
 ## 🥅 Overzicht en Leerdoelen
 
 Tijdens de lessen van deze week leer je:
- - bootstrap Grid gebruiken
- - wat bootstrap Grid breakpoints zijn
- - bootstrap kleuren gebruiken
- - eigen CSS toevoegen
+ - Formulieren bouwen met HTML
+ - Formulieren opmaken met Bootstrap
+ - wat `<input>` elementen zijn
+ - welke attributes gebruikt kunnen worden bij de verschillende soorten `<input>` elementen
 
 ## 🔍 Week 4: Bootstrap & Layout
 
 In deze repository vind je 1 oefening terug. De oefening staat beschreven in het bestand `README.md` *in de map van de oefening*.
 
-**Voor je aan de oefeningen begint** leer je best gebruik te maken van de [bootstrap cheatsheet](https://getbootstrap.com/docs/5.2/examples/cheatsheet/) en de [bootstrap icons](https://icons.getbootstrap.com/).
+**Voor je aan de oefeningen begint** bekijk je best volgende voorbeelden:
+• [Bootstrap forms](https://getbootstrap.com/docs/5.2/forms/overview/)
+• [formulieren](https://apwt.gitbook.io/g_webtechnologie/html/html-formulieren)
+• [HTML input types](https://www.w3schools.com/html/html_form_input_types.asp)
 
 Wanneer je alle oefeningen hebt afgewerkt, kan je op je [Github Repo](https://classroom.github.com/a/DVKbsbLg) gaan naar de knop `Code` > `Download ZIP`. Upload deze zip in de upload-zone op [Digitap](https://learning.ap.be/course/view.php?id=58872#section-5)!
 
@@ -60,3 +63,4 @@ Wanneer je alle oefeningen hebt afgewerkt, kan je op je [Github Repo](https://cl
 - [Bootstrap documentatie](https://getbootstrap.com/docs/5.2/getting-started/introduction/)
 - [bootstrap cheatsheet](https://getbootstrap.com/docs/5.2/examples/cheatsheet/)
 - [bootstrap icons](https://icons.getbootstrap.com/)
+• [Bootstrap forms](https://getbootstrap.com/docs/5.2/forms/overview/)

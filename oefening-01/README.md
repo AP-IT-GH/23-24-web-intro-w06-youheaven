@@ -1,4 +1,4 @@
-# 💻 LES: W5 - Bootstrap & Content - Oefening 01
+# 💻 LES: W6 - Bootstrap & Forms - Oefening 01
 
 ## 🛠️ Opdrachten
 
@@ -6,10 +6,13 @@
 
  - [ ] Open het bestand genaamd [`index.html`](index.html).
 
+### `contact.html` aanmaken
+
+ - [ ] Maak een nieuw bestand genaamd [`contact.html`](contact.html).
+
 ### `style.css` koppelen
 
 - [ ] koppel de eigen css uit [`style.css`](css/style.css) aan de HTML.
-    - `./css/style.css` en gebruik de klasse `themed-container` voor section
 
 ### Bekijk de Bootstrap Cheatsheet
 
@@ -18,47 +21,42 @@
 
 ### Voorbeeld Namaken
 
-- [ ] Maak de printscreens zo goed mogelijk na.
+- [ ] Maak de printscreens van de contactpagina zo goed mogelijk na.
 
-#### Head
+#### Gemeenschappelijke onderdelen
 
-- [ ] voeg de `style.css` uit de map css toe
+- [ ] Kopieer de gemeenschappelijke onderdelen van de `index.html` naar `contact.html`
+- [ ] Zorg dat beide pagina’s naar elkaar verwijzen in de nav.
 
-#### nav
+#### [Form](https://apwt.gitbook.io/g_webtechnologie/html/html-formulieren)
 
-- [ ] heeft een klasse navbar
-- [ ] de navbar vergroot bij het breakpoint md
-- [ ] de navbar heeft een lichte achtergrond
-- [ ] div heeft een container van `100%` breed
-- [ ] het logo `coffee.png` zit in een klasse navbar-brand
-- [ ] alle list-items behoren tot de klasse nav-item en hebben een nav-link
-- [ ] de dropdown heeft een klasse dropdown-menu met dropdown-items
-- [ ] de button heeft een kleine button en heeft een grijze omtrek
+- [ ] maak een form met `action="#"` en `method="post"`
 
-#### header
-- [ ] de header staat in een rij
-- [ ] h1 heeft een kolom, een gecentreerde tekst en een koffiebruine kleur  
-_(tip: zie ./css/style.css)_
+#### [Fieldset](https://apwt.gitbook.io/g_webtechnologie/html/html-formulieren)
 
-#### main
-- [ ] heeft een klasse col met breakpoint md die 9 fracties omvat
-- [ ] het artikel heeft een klasse col met 12 fracties, en een marge onderaan van 3
-- [ ] de ondertitel (h2) staat in hoofdletters, heeft een font-size 4, de font-weight is bolder en heeft een padding-top van 3
-- [ ] alle 6 artikels met klasse shop-items zijn bij minder dan 576px 12 fractie breed, bij het breakpoint sm zijn ze 6 fracties breed, en bij md 4 fracties
-- [ ] de h2 van het shop-item staat in hoofdletters, heeft een font-size 6, de font-weight is bolder en heeft een padding-top van 3
-- [ ] de afbeelding binnen de figure zijn responsief
-- [ ] de figcaption heeft een klasse kleine h6 en een marge bovenaan van 2
-
-#### aside
-- [ ] heeft een klasse col met een breakpoint md met 3 fracties
-- [ ] h2 van contact heeft dezelfde klasse als h2 shop
-- [ ] de list-items staan inline
-- [ ] de iconen hebben een font-size van 3 en een koffiebruine kleur
-
-#### footer
-- [ ] de container is 100% breed en heeft een padding van 4
-- [ ] de tekst in gecentreerd
-- [ ] de tekst heeft een kleine h6
+- [ ] maak 4 fieldsets (groepering van elementen) in het formulier in een grid-structuur (row) met telkens een gutter van 3 en een marge onderaan van 3
+- [ ] elke fieldset heeft een legend (titel)
+- [ ] de legend heeft dezelfde eigenschappen als de titels (h2) van de shop met een extra padding boven van 3
+- [ ] Maak het formulier op de contactpagina zo nauwkeurig mogelijk na. Zorg dat het sterretje bij verplichte velden in een span komt te staan en de koffiebruine kleur krijgt.
+  - fieldset gegevens
+    - voornaam (text)
+    - achternaam (text)
+    - mobiel (tel)
+    - geboortedatum (date)
+  - fieldset accountgegevens
+    - e-mail (mail)
+    - paswoord (password)
+    - bevestig paswoord (password)
+  - fieldset adresgegevens
+    - adres (text)
+    - postcode (text) met o.a. breekpunt bij md (3)
+    - stad (text) met o.a. breekpunt bij md (5)
+    - kies een land met breekpunt bij md (4): keuze uit volgende landen kan kiezen, waarbij België reeds geselecteerd is: België, Duitsland, Frankrijk, Luxemburg, Nederland, Verenigd Koninkrijk
+  - fieldset koffie-achtergrond
+    - ik koop: keuze uit koffiebonen, gemalen koffie, oploskoffie
+    - en ben fan van: keuze uit Illy, Lavazza, Starbucks, Gran Maestro Italiano, Celeste d’Oro
+    - hoe tevreden ben je van ons? (range) met minimum 0 en maximum 10, telkens met stappen van 1
+- [ ] Net buiten de laatste fieldset én voor de tag van het formulier sluit, wordt een knop (submit) geplaatst.
 
 #### screenshots
 
