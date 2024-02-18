@@ -1,6 +1,6 @@
-# 💻 LES: W6 - Bootstrap & Forms - Oefening 01
+# 💻 06. Bootstrap & forms > oefening 01
 
-## 🛠️ Opdrachten
+## 🛠️ opdrachten
 
 ### `index.html` openen
 
@@ -10,33 +10,34 @@
 
  - [ ] Maak een nieuw bestand genaamd [`contact.html`](contact.html).
 
-### `style.css` koppelen
+### head
 
-- [ ] koppel de eigen css uit [`style.css`](css/style.css) aan de HTML.
+- [ ] Laad in de head de correcte links in voor Bootstrap.
+- [ ] Koppel de eigen css uit [`style.css`](css/style.css) aan de HTML.
 
-### Bekijk de Bootstrap Cheatsheet
+### bekijk de Bootstrap cheatsheet
 
-- [ ] open de [bootstrap cheatsheet](https://getbootstrap.com/docs/5.2/examples/cheatsheet/). Gebruik de dev-tools van je browser om de elementen te inspecteren.
-- [ ] Open de [bootstrap icons](https://icons.getbootstrap.com/). Klik op een icoontje om te leren hoe je het icoontje gebruikt op een Bootstrap webpagina.
+- [ ] Open de [Bootstrap cheatsheet](https://getbootstrap.com/docs/5.3/examples/cheatsheet/). Gebruik de dev-tools van je browser om de elementen te inspecteren.
+- [ ] Open de [Bootstrap icons](https://icons.getbootstrap.com/). Klik op een icoontje om te leren hoe je het icoontje gebruikt op een Bootstrap-webpagina.
 
-### Voorbeeld Namaken
+### voorbeeld namaken
 
 - [ ] Maak de printscreens van de contactpagina zo goed mogelijk na.
 
-#### Gemeenschappelijke onderdelen
+#### gemeenschappelijke onderdelen
 
 - [ ] Kopieer de gemeenschappelijke onderdelen van de `index.html` naar `contact.html`
 - [ ] Zorg dat beide pagina’s naar elkaar verwijzen in de nav.
 
-#### [Form](https://apwt.gitbook.io/g_webtechnologie/html/html-formulieren)
+#### [form](https://apwt.gitbook.io/g_webtechnologie/html/html-formulieren)
 
-- [ ] maak een form met `action="#"` en `method="post"`
+- [ ] Maak een form met `action="#"` en `method="post"`
 
-#### [Fieldset](https://apwt.gitbook.io/g_webtechnologie/html/html-formulieren)
+#### [fieldset](https://apwt.gitbook.io/g_webtechnologie/html/html-formulieren)
 
-- [ ] maak 4 fieldsets (groepering van elementen) in het formulier in een grid-structuur (row) met telkens een gutter van 3 en een marge onderaan van 3
-- [ ] elke fieldset heeft een legend (titel)
-- [ ] de legend heeft dezelfde eigenschappen als de titels (h2) van de shop met een extra padding boven van 3
+- [ ] Maak 4 fieldsets (groepering van elementen) in het formulier in een grid-structuur (row) met telkens een gutter van 3 en een marge onderaan van 3.
+- [ ] Elke fieldset heeft een legend (titel).
+- [ ] De legend heeft dezelfde eigenschappen als de titels (h2) van de shop met een extra padding boven van 3.
 - [ ] Maak het formulier op de contactpagina zo nauwkeurig mogelijk na. Zorg dat het sterretje bij verplichte velden in een span komt te staan en de koffiebruine kleur krijgt.
   - fieldset gegevens
     - voornaam (text)

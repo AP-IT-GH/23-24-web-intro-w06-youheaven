@@ -1,33 +1,33 @@
-# 💻 LES: Week 5: Bootstrap & Content
+# 💻 06. Bootstrap & forms
 
-## 🥅 Overzicht en Leerdoelen
+## 🥅 overzicht en leerdoelen
 
 Tijdens de lessen van deze week leer je:
- - Formulieren bouwen met HTML
- - Formulieren opmaken met Bootstrap
- - wat `<input>` elementen zijn
- - welke attributes gebruikt kunnen worden bij de verschillende soorten `<input>` elementen
+ - formulieren bouwen met HTML,
+ - formulieren opmaken met Bootstrap,
+ - wat `<input>` elementen zijn,
+ - welke attributes gebruikt kunnen worden bij de verschillende soorten `<input>`-elementen.
 
-## 🔍 Week 4: Bootstrap & Layout
+## 🔍 week 06: Bootstrap & forms
 
 In deze repository vind je 1 oefening terug. De oefening staat beschreven in het bestand `README.md` *in de map van de oefening*.
 
-**Voor je aan de oefeningen begint** bekijk je best volgende voorbeelden:
-• [Bootstrap forms](https://getbootstrap.com/docs/5.2/forms/overview/)
+**tip: Voor je aan de oefeningen begint** bekijk je best volgende voorbeelden:
+• [Bootstrap forms](https://getbootstrap.com/docs/5.3/forms/overview/)
 • [formulieren](https://apwt.gitbook.io/g_webtechnologie/html/html-formulieren)
 • [HTML input types](https://www.w3schools.com/html/html_form_input_types.asp)
 
-Wanneer je alle oefeningen hebt afgewerkt, kan je op je [Github Repo](https://classroom.github.com/a/DVKbsbLg) gaan naar de knop `Code` > `Download ZIP`. Upload deze zip in de upload-zone op [Digitap](https://learning.ap.be/course/view.php?id=58872#section-5)!
+Wanneer je alle oefeningen hebt afgewerkt, kan je op je `Github Repo` gaan naar de knop `Code` > `Download ZIP`. Upload deze zip in de uploadzone op Digitap. Nadien corrigeer je zelf jouw labo op basis van de correctiesleutel op Digitap, om zo te leren uit jouw fouten.
 
-## 💡 Belangrijke Termen
+## 💡 belangrijke termen
 
-| Term                 | Definitie                                                                                                                                  |
+| term                 | definitie                                                                                                                                  |
 | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | HTML                 | Een taal die gebruikt wordt om de structuur van een website te bepalen.                                                                    |
 | CSS                  | Een taal die gebruikt wordt om de opmaak van een website te bepalen.                                                                       |
 | commentaar           | Een stuk tekst in de code dat genegeerd wordt door de computer. Dit kan gebruikt worden om extra uitleg bij code te geven.                 |
 | browser              | Het programma waarmee je een website kunt bezoeken.                                                                                        |
-| *.html               | Met deze bestands-extensie worden pagina's van een website opgeslagen als document.                                                        |
+| \*.html              | Met deze bestands-extensie worden pagina's van een website opgeslagen als document.                                                        |
 | index.html           | De standaard startpagina van een website. Als je geen pagina meegeeft aan het adres van de website, wordt deze pagina automatisch geladen. |
 | tag                  | Een kleiner dan (`<`) en groter dan (`>`) teken waartussen een codewoord staat.                                                            |
 | tagnaam              | Een codewoord dat inhoud aanduidt voor een bepaald doel.                                                                                   |
@@ -51,16 +51,17 @@ Wanneer je alle oefeningen hebt afgewerkt, kan je op je [Github Repo](https://cl
 | attribute            | Een deel van de openingstag dat meer informatie geeft over het element.                                                                    |
 | attribute-key        | De naam van het attribute. Dit staat aan de linkerkant van het = teken.                                                                    |
 | attribute-value      | De waarde van het attribute. Dit staat aan de rechterkant van het = teken.                                                                 |
-| src attribute        | Dit attribute geeft een verwijzing naar een extern bestand (zoals een afbeelding of javascript bestand).                                   |
-| alt attribute        | Dit attribute geeft een naam aan een afbeelding. Wanneer de afbeelding zelf niet geladen kan worden, wordt deze naam getoond in de plaats. |
-| href attribute       | Dit attribute geeft een verwijzing naar een andere website of pagina.                                                                      |
+| src-attribute        | Dit attribute geeft een verwijzing naar een extern bestand (zoals een afbeelding of javascript bestand).                                   |
+| alt-attribute        | Dit attribute geeft een naam aan een afbeelding. Wanneer de afbeelding zelf niet geladen kan worden, wordt deze naam getoond in de plaats. |
+| href-attribute       | Dit attribute geeft een verwijzing naar een andere website of pagina.                                                                      |
 
-## 📚 Bronnen
+## 📚 bronnen
 
-- [AP cursus Webtechnologie (HTML)](https://apwt.gitbook.io/g_webtechnologie/html/html-structuur)
+- [AP cursus Webtechnologie (HTML)](https://apwt.gitbook.io/g_webtechnologie/)
 - [w3schools](https://www.w3schools.com)
 - [MDN](https://developer.mozilla.org/en-US/docs/Web/HTML)
-- [Bootstrap documentatie](https://getbootstrap.com/docs/5.2/getting-started/introduction/)
-- [bootstrap cheatsheet](https://getbootstrap.com/docs/5.2/examples/cheatsheet/)
-- [bootstrap icons](https://icons.getbootstrap.com/)
-• [Bootstrap forms](https://getbootstrap.com/docs/5.2/forms/overview/)
+- [Bootstrap](https://getbootstrap.com)
+- [Bootstrap documentatie](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
+- [Bootstrap cheatsheet](https://getbootstrap.com/docs/5.3/examples/cheatsheet/)
+- [Bootstrap icons](https://icons.getbootstrap.com/)
+- [Bootstrap forms](https://getbootstrap.com/docs/5.3/forms/overview/)
